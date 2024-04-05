@@ -10,6 +10,15 @@
 - **Rastreamento de alterações**: Identificar quem fez alterações em quais arquivos e quando.
 - **Resolução de conflitos**: Facilitar a resolução de conflitos quando duas versões diferentes de um arquivo precisam ser combinadas.
 
+#### No Git utilizamos códigos para programação dentro do aplicativo, tais como:
+
+- **ls** - lista os arquivos dentro do ambiente
+- **cd** - entra em pastas ou arquivos
+- **cd ..** - sai de pastas e ambientes
+- ** mkdir** - cria e nomeia pastas (diretórios)
+- **clear* - limpa a tela inteira
+- **code.** - abre o visual studio code
+- ** echo "#nomedapasta" >> README.md
 ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png)
 
 #### **Fontes:**
