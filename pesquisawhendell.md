@@ -70,6 +70,23 @@ O GitHub é amplamente utilizado por desenvolvedores individuais, equipes de des
 
 **Link para estudo** [clique aqui](https://www.hostinger.com.br/tutoriais/o-que-github) ou [aqui](https://ebaconline.com.br/blog/o-que-e-github)
 
+**Tabela Comparativa**
+
+GitHub sendo comparado ao LinkedIn 
+
+| Recurso         | GitHub                                   | LinkedIn                                 |
+|-----------------|------------------------------------------|------------------------------------------|
+| Propósito       | Plataforma de hospedagem de código-fonte | Rede social profissional e de negócios  |
+| Foco Principal  | Desenvolvedores e colaboração em código | Profissionais, recrutamento e networking|
+| Tipo de Conteúdo| Código-fonte, problemas, wikis, etc.    | Perfis de usuários, publicações, vagas  |
+| Interação       | Colaboração em projetos, revisões de código | Conexões, mensagens, compartilhamento de postagens |
+| Recrutamento    | Pode ser usado para exibir projetos e habilidades | Recrutamento ativo e passivo, exibição de experiência e habilidades |
+| Público-Alvo    | Desenvolvedores, equipes de tecnologia   | Profissionais de todos os setores, recrutadores |
+| Formato de Conteúdo | Texto, código, documentação         | Texto, imagens, links, documentos       |
+| Monetização     | Planos pagos para empresas, hospedagem pública gratuita | Planos pagos para recrutadores e empresas, anúncios, subsídios premium |
+| Usuários Ativos | Mais voltado para usuários técnicos    | Maior variedade de profissionais        |
+
+
 ## Vscode
 
 Acesso ao [Vscode](https://code.visualstudio.com/)
@@ -95,3 +112,19 @@ Principais características do Visual Studio Code:
 O Visual Studio Code tornou-se uma escolha popular entre os desenvolvedores devido à sua leveza, velocidade, extensibilidade e a vasta gama de recursos que oferece. É amplamente utilizado em diversos ambientes de desenvolvimento, desde projetos pessoais até grandes equipes de software.
 
 **Link para estudo** [clique aqui](https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar) ou [aqui](https://www.remessaonline.com.br/blog/visual-studio-code-confira-as-principais-funcoes-da-ferramenta/)
+
+**Tabela Comparativa**
+
+VScode sendo comparado ao Sublime Text.
+
+| Recurso           | Visual Studio Code (VSCode)      | Sublime Text                     |
+|-------------------|----------------------------------|----------------------------------|
+| Licença           | Software Livre (MIT License)     | Proprietária (Licença comercial) |
+| Extensibilidade   | Altamente extensível com uma vasta gama de extensões disponíveis na Visual Studio Marketplace | Extensível através de plugins, mas em menor quantidade comparado ao VSCode |
+| Multiplataforma   | Disponível para Windows, macOS e Linux | Disponível para Windows, macOS e Linux |
+| Interface         | Interface de usuário moderna e altamente customizável | Interface limpa e minimalista, com opções de personalização limitadas |
+| Desempenho        | Mais pesado em termos de uso de recursos do sistema, especialmente com várias extensões ativas | Leve e rápido, mesmo com muitos arquivos abertos |
+| Suporte a idiomas | Suporta uma ampla variedade de idiomas através de extensões | Suporta diversos idiomas de programação com destaque de sintaxe |
+| Customização      | Configurações personalizáveis através de arquivos JSON e extensões | Customização através de configurações e plugins, mas com menos opções de personalização |
+| Integração        | Integração nativa com Git e outros sistemas de controle de versão | Integração com Git e outros sistemas de controle de versão através de plugins |
+| Comunidade        | Comunidade ativa de desenvolvedores contribuindo com extensões e suporte | Comunidade ativa, mas em menor escala comparado ao VSCode |
