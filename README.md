@@ -86,7 +86,7 @@ O VS Code é um editor de código completo e versátil que pode ser usado por de
 
 ![Alt ou título da imagem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVxehoM-rU56fgM_FXT64f0icx4NJ7mZPXTQaQ9eG1hg&s)
 
-Git:
+**geral
 
 Documentação oficial: https://git-scm.com/doc
 Tutoriais:
