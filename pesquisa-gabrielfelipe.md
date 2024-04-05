@@ -13,3 +13,5 @@ A git hub é um serviço baseado em nuvem que hospeda um sistema de controle de 
 ![GITHUB](https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png)
 
 Fonte: https://www.hostinger.com.br/tutoriais/o-que-github
+
+# VS CODE:
