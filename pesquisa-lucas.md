@@ -19,7 +19,7 @@ Outras vantagens de utilizar o Git Hub inclui:
 *ter acesso e controle de diferentes versões de um código na nuvem.
 # 2-GIT
  o que é esse tal de Git, que basicamente é uma ferramenta para direcionamento de código. Em outras palavras, ela permite que o usuário gerencie as alterações feitas em um código sem que haja bagunça ao trabalhar simultaneamente com mais colaboradores.
- Mais sobre o assunto (Clicando aqui)[https://www.tecmundo.com.br/mercado/254787-o-github-entenda-plataforma.htm]
+ Mais sobre o assunto [Clicando aqui](https://www.tecmundo.com.br/mercado/254787-o-github-entenda-plataforma.htm)
 
 O Git fornece uma linha do tempo na qual são feitos controles de ponto do projeto, os chamados 'commits', que vão registrando o que cada usuário fez naquele determinado momento de alteração, possibilitando também que essas mesmas ações sejam desfeitas, regressando em etapas anteriores.
 # 3-VScode
