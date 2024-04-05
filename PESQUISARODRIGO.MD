@@ -13,4 +13,5 @@
 ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png)
 
 #### **Fontes:**
-<https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png>
+<https://www.atlassian.com/br/git/tutorials/what-is-git>
+
