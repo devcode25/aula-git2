@@ -8,4 +8,8 @@ O git  é um sistema de controle de versão distribuído, o que significa que um
 Fonte: https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git
 
 # GIT HUB:
-A git hub 
+A git hub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso
+
+![GITHUB](https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png)
+
+Fonte: https://www.hostinger.com.br/tutoriais/o-que-github
