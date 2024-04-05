@@ -5,7 +5,7 @@ O git  é um sistema de controle de versão distribuído, o que significa que um
 
 ![GIT](https://blog.geekhunter.com.br/wp-content/uploads/2020/08/comandos-git.png)
 
-https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git
+Fonte: https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git
 
 # GIT HUB:
 A git hub 
