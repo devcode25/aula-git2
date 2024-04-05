@@ -1,0 +1,3 @@
+**Github: O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git. A plataforma ajuda os desenvolvedores a armazenar e administrar o código e faz o registro de mudanças.**
+**Git: Git é um software de controle de versões desenhado por Linus Torvalds, o criador do Linux. O propósito do Git é levar um registro de mudanças e coordenar o trabalho de várias pessoas em um repositório compartilhado.**
+**VSCODE: Um editor de código-fonte autônomo que é executado no Windows, macOS e Linux. A melhor escolha para desenvolvedores JavaScript e Web, com toneladas de extensões dar suporte a praticamente qualquer linguagem de programação.**
