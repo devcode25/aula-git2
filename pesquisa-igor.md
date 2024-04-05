@@ -1,0 +1,3 @@
+# O queb é GitHub?
+
+O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git. A plataforma ajuda os desenvolvedores a armazenar e administrar o código e faz o registro de mudanças. Geralmente o código é aberto, o que permite realizar projetos compartilhados e manter o acompanhamento detalhado de seu progresso. A plataforma GitHub também funciona como rede social, conectando os desenvolvedores com os usuários. Como usuário, você pode descarregar programas ou aplicativos, e da mesma maneira, pode colaborar com seu desenvolvimento oferecendo melhorias e discutindo as questões que interessam nos fóruns temáticos.
