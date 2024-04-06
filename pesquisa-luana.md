@@ -28,7 +28,21 @@ https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao
 
 -além dos repósitorios, temos diversas outras funcionalidades submersas dentro da plataforma.
 
+Exemplo de um perfil no gitbub:
+
 ![COISINHA](https://docs.github.com/assets/cb-170327/images/help/repository/profile-with-readme.png)
+
+*origem* O GitHub foi desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon, e todo o projeto começou em 2008. A sede está localizada em São Francisco, na Califórnia.
+
+desenvolvedores: 
+![COISINHA](https://upload.wikimedia.org/wikipedia/commons/6/6a/Chris_Wanstrath_2023.jpg)
+
+![COISINNHA](https://avatars.githubusercontent.com/u/3?v=4)
+
+![COISINHA](https://upload.wikimedia.org/wikipedia/commons/0/0b/Tom_Preston-Werner.jpg)
+
+![COISINHA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpJUb63GBvaazr2eyhyc5ACmm_D8w3vmdlJudbsaMp&s)
+
 
 
 
