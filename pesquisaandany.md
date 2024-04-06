@@ -33,7 +33,7 @@ Git diff.
 
 <img src="https://cdn.thenewstack.io/media/2021/08/4ce8bc99-git.png" alt="Development: Introduction to Git Logging - The New Stack"/>
 
-O que é o *GitHub*
+# O que é o *GitHub*
 
 ### O *GitHub* é uma plataforma de hospedagem de código-fonte e colaboração para desenvolvedores de software. Ele permite que os desenvolvedores armazenem, compartilhem e colaborem em projetos de software de forma eficiente. Aqui estão alguns pontos-chave sobre o GitHub:
 
@@ -53,7 +53,7 @@ O que é o *GitHub*
 ### O GitHub se integra facilmente com uma variedade de ferramentas de desenvolvimento, como IDEs (Ambientes de Desenvolvimento Integrado), sistemas de integração contínua e ferramentas de automação de tarefas, tornando-o uma parte central do fluxo de trabalho de desenvolvimento de software moderno.
 <img />![image](https://github.com/daviandany/aula-git2/assets/163961438/1b8ac273-9c12-45f8-9cce-dc052ab61177)
 
-O que é o *VS code*
+# O que é o *VS code*
 
 ## Visual Studio Code (VS Code):
 ### O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft. Ele é conhecido por sua extensibilidade, desempenho e facilidade de uso. Aqui estão algumas características importantes do VS Code:
