@@ -50,7 +50,7 @@ https://blog.geekhunter.com.br/github-o-que-e-como-usar/
 
 VSCODE
 
-*o que seria o vs code?* - O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft.
+*o que seria o vscode?* - O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft.
 
 *para que serve* - amplo suporte a diversas linguagens de programação e tecnologias. Ele vem com suporte integrado para linguagens populares, como JavaScript, Python, Java, C++, HTML, CSS e muitas outras.
 
