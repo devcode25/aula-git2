@@ -43,6 +43,19 @@ desenvolvedores:
 
 ![COISINHA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpJUb63GBvaazr2eyhyc5ACmm_D8w3vmdlJudbsaMp&s)
 
+refências: https://docs.github.com/pt/get-started/using-git/about-git
+https://www.hostinger.com.br/tutoriais/o-que-github
+https://blog.geekhunter.com.br/github-o-que-e-como-usar/
+
+
+#Vs code#
+
+*o que seria o vs code?* - O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft.
+
+*para que serve* - amplo suporte a diversas linguagens de programação e tecnologias. Ele vem com suporte integrado para linguagens populares, como JavaScript, Python, Java, C++, HTML, CSS e muitas outras.
+
+![COISINHA](https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/01/instalacao-do-vs-code-no-windows-linux-e-macos.png)
+
 
 
 
