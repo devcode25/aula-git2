@@ -33,6 +33,8 @@ Git diff.
 
 <img src="https://cdn.thenewstack.io/media/2021/08/4ce8bc99-git.png" alt="Development: Introduction to Git Logging - The New Stack"/>
 
+Fonte: https://www.alura.com.br/artigos/o-que-e-git-github?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=20946398532&hsa_grp=153091871930&hsa_ad=688089973825&hsa_src=g&hsa_tgt=dsa-2258482181163&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwq86wBhDiARIsAJhuphmpYhXKw9ZO6ErlBsStP7BlTLZEEUFRIYmOJl7s19FQ9h6p-t11SuIaAhxNEALw_wcB
+
 # O que é o *GitHub*
 
 ### O *GitHub* é uma plataforma de hospedagem de código-fonte e colaboração para desenvolvedores de software. Ele permite que os desenvolvedores armazenem, compartilhem e colaborem em projetos de software de forma eficiente. Aqui estão alguns pontos-chave sobre o GitHub:
@@ -52,6 +54,8 @@ Git diff.
 ## Integração com Ferramentas de Desenvolvimento: 
 ### O GitHub se integra facilmente com uma variedade de ferramentas de desenvolvimento, como IDEs (Ambientes de Desenvolvimento Integrado), sistemas de integração contínua e ferramentas de automação de tarefas, tornando-o uma parte central do fluxo de trabalho de desenvolvimento de software moderno.
 <img />![image](https://github.com/daviandany/aula-git2/assets/163961438/1b8ac273-9c12-45f8-9cce-dc052ab61177)
+
+Fonte: https://www.hostinger.com.br/tutoriais/o-que-github
 
 # O que é o *VS code*
 
@@ -74,4 +78,6 @@ Git diff.
 ### O VS Code inclui um terminal integrado que permite que os desenvolvedores executem comandos diretamente do editor, sem a necessidade de alternar entre o editor e um terminal externo. Isso pode melhorar a eficiência do fluxo de trabalho de desenvolvimento, especialmente para tarefas que envolvem a execução de comandos no terminal.
 
  ![image](https://github.com/daviandany/aula-git2/assets/163961438/cdc346f8-3cb1-4fcf-bb48-7e1d9e2e704f)
+
+ Fonte: https://www.remessaonline.com.br/blog/visual-studio-code-confira-as-principais-funcoes-da-ferramenta/
 
