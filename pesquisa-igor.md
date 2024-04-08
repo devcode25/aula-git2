@@ -10,3 +10,13 @@
 **Fonte:<https://ebaconline.com.br/blog/o-que-e-github>**
 # O que é GIT?
 
+O GIT é um sistema de controle de versão distribuído, usado principalmente no desenvolvimento de software, mas também serve para acompanhar alterações em qualquer tipo de arquivo. Todos os nossos arquivos, assim como seus históricos, ficam em um repositório e existiam vários sistemas que gerenciam repositórios assim, como CVS (Sistema de Versões Concorrentes) e SVN (Subversion do Apache). O Git é uma alternativa com um funcionamento mais interessante ainda: ele é distribuído e todo mundo tem uma cópia inteira do repositório, não apenas o "servidor principal". E uma das vantagens disso é que cada pessoa pode desenvolver offline, realizando seus commits e outras operações sem depender de uma conexão constante com o servidor principal. 
+
+![imagem](https://lh5.googleusercontent.com/GON_64dRForX0sHEEPo3Ftwzs2y3vm1vSRfM4fXms0NUshggh_BKIIiqm9yddHVtO_jkEnskIZJJGIu26BPh7zu4W1XQ3C1-DJlt3RhHa9ZKz3J2tmoCrBbgcvS48PdhD2auceGd)
+
+**Fonte:<https://www.alura.com.br/artigos/o-que-e-git-github>**
+
+# O que é VS Code?
+
+
+![Imagem](https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/04/vs-code-configuracoes.png)
