@@ -33,7 +33,7 @@
 
 ## Repositórios
 
- Ele ermite que os desenvolvedores hospedem seus projetos em repositórios públicos ou privados. Cada repositório contém todo o código-fonte, histórico de alterações, ramificações e contribuições associadas a um projeto específico.
+ Ele permite que os desenvolvedores hospedem seus projetos em repositórios públicos ou privados. Cada repositório contém todo o código-fonte, histórico de alterações, ramificações e contribuições associadas a um projeto específico.
 
 ## Controle de Versão
 
@@ -56,6 +56,7 @@
  ![github](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
 
  **Fontes:**
+ 
  <https://www.hostinger.com.br/tutoriais/o-que-github>
 
  <https://ebaconline.com.br/blog/o-que-e-github>
