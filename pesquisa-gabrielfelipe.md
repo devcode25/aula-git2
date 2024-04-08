@@ -15,3 +15,11 @@ A git hub é um serviço baseado em nuvem que hospeda um sistema de controle de 
 Fonte: https://www.hostinger.com.br/tutoriais/o-que-github
 
 # VS CODE:
+
+O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft.
+
+A saber, ele está disponível para Windows, Mac e Linux. É criado com Electron, ferramenta criada pelo GitHub que permite a criação de softwares Desktop com HTML, CSS e JavaScript.
+
+![VS CODE](https://hub.asimov.academy/wp-content/uploads/2022/03/vscode-logo-1.jpeg)
+
+Fonte: https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar
