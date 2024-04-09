@@ -17,6 +17,7 @@ O GIT é um sistema de controle de versão distribuído, usado principalmente no
 **Fonte:<https://www.alura.com.br/artigos/o-que-e-git-github>**
 
 # O que é VS Code?
-
+O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
 
 ![Imagem](https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/04/vs-code-configuracoes.png)
+**Fonte:<https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar>**
